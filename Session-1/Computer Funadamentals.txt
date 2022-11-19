@@ -348,6 +348,13 @@ Primary Drive is C: , You can Also divide into D:,E:,F:, drives etc...,
 ----------------------------------
 - it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively.
 - SMPS: transfer power from AC to DC  or DC to AC
+1. DC to DC CONVERSION: 
+-high voltage DC power is directly aquired from DC power Source . Then this High Volatage DC power is switched usually in the range of 15KHz -5KHz (may be Step-Up or Step Down)
+
+
+2. AC TO DC CONVERSION:
+- it is being converted by using rectifier(Diode) and Filters
+- here Input Supply is AC and Output is DC accoring to the requirement the Elelctronic Components will be attached to acheive Desire  Output
 
 ***************************************************************************************************************
 [D] USB (UNIVERSAL SERIAL BUS)
