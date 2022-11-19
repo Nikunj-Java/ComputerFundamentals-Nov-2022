@@ -197,6 +197,49 @@ Histroy:
 - store audio and Video Files
 - with the help of DVD Players You can transfer the Data to your TV and Speakers
 
+***************************************************************************************************************[C] STORAGE DEVICE:
+***************************************************************************************************************
+
+1. FLASH MEMORY:
+-------------------
+
+- IT IS LONG LIFE AND NON VOLATILE STRONG CHIP WHIH IS WIDELY USED IN EMBEDED SYSTEM
+- IT CAN STORE DATA AND INFO EVEN IF THE POWER IS OFF.
+- IT IS BASICALLY STORAGE.
+- it is a type of Non-Volatile Memory
+- it erases the data in unit blocks and rewtites the data at the byte level.
+- it is also known as EEPROM- Electrically Erasable Programmable Read Only Memory.
+- in case of PEN DRIVE (USB Drive) EEPROM is a type of data memory device using electronic device to erase or  write digital data in large blocks
+- it works on MOSFET- it is transistor used  for amplifying or switching electronics signals
+- MOSFET- METAL OXIDE SEMICONDUCTORS FIELD EFFECT TRANSITOR.
+
+
+
+2. OPTICAL DISC:
+-------------------
+
+- Uusally use to write and read data
+- encodes your binary information in the form of some special material and store the dtaa in that
+
+
+	eg: EXTERNAL HARD DRIVE
+
+
+3. LOCAL DRIVES:
+-------------------
+
+- we can say that it is a local disc as well
+- Hard Drive(HDD) or SSD(Solid State Drive) which is connected to your computer
+
+Primary Drive is C: , You can Also divide into D:,E:,F:, drives etc...,
+
+
+4. MAGNETIC TYPE/TAPE:
+----------------------
+- you can write data on single side
+- you can do  only forward and reverse operation with that
+- stores limited amount of data
+- eg: Audio Cassates.
 
 
 
