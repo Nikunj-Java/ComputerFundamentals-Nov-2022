@@ -1,0 +1,380 @@
+Computer Fundamentals | Basic Computer Science
+***************************************************************************************************************
+[A] INPUT DEVICE
+***************************************************************************************************************
+1. KEYBOARD:
+-------------
+
+- It is a panel of keys that operates a computer or typewritter
+- it is a set of keys also known as "QWERTY" Keyboard
+- Key boards are available in market with different Shape,Size & Keys
+
+---------------------------------------------------------------------------------------------------------------
+2. Mouse:
+-------------
+
+- it is pointing Device
+- Cursor: Control Device
+- mouse having three things
+	-Left Click
+	-Right Click
+	- Scroller(Wheel)
+
+Advantages:
+	1. Easy to use
+	2. Not very Expensive
+	3. Move your cursor faster than use of arrow key
+---------------------------------------------------------------------------------------------------------------3. Microphone
+--------------
+
+- it is an input device to input sound that we can store in a digital form
+- it converts Sound Waves to Electric Signal and Send it to the Computer in a required Formate.
+
+
+Use: Transfer data from one location to another location (Communication).
+	--->Multimedia Presentation
+	--->Music,Mixing and other sound Related Process
+---------------------------------------------------------------------------------------------------------------
+4.Touch Screen:
+---------------
+
+- Touch Screen is a computer display which is used as an input Device
+- these Screen are very sensitive to pressure, user can interact with your computer by touch on som picture, Buttons etc..,
+- There are Three types of Screen
+	1. Resistive
+	2. SurfaceWave
+	3. Capcitive 
+
+What is Resistive Touch?
+	- Pressure as an input is called as resistive touch
+	- it is made up of several layers of plastic and glass
+	- the front layer is Scratch Resistance
+	- Second layer is generally Glass
+	- these both are coated with conductive material, When Someone applies Pressure to the panel, resistance is meansures between the Two Layers
+
+
+What is SurfaceWave Acoustic Wave Touch Screen (SAW)?
+	- it uses Utrasonic Waves to detect the touch input.
+	- on tapping or touching the dislpay interface, The ultrasonic Waves in that Area are Disturbed, allowing the touch Screen's interface to detect the position of touch command
+	
+	BENIFITS:
+	1. They are limited to using a bare finger for input
+	2. They don't required a conductive object to register a touch
+	3. Unlike Capacitive Touch Screen SAW touch Screen can be operated with any object that can absorb Ultrasonic Waves, Which includes Things like Heavily Gloved Hands.
+	
+	DISADVANTAGES:
+	1. SAW  Screens are not recommended for outdoor environment
+	2. as they can be affected by large amount of dirt,dust,water droplets,etc..
+	3. Otherwise they  provide simple ,attractive interface for indor application
+	4. Eg: Metro railway station: Automatic Ticket Machine Uses This Technology for Ticket Bookings.
+
+What is Capacitive Touch?
+	-  it uses electric properties of Human body as an input
+	- When touched with finger , a small electrical charge is drawn to the point of contact.
+	- it will allow the display to detect  where it has recieved as input
+	- The result is a Display that can detect lighter touches and greater accuracy tha Resistive Touch.
+	Eg: Mobile Touch Screen 
+
+Which One Is Batter?
+
+- Capacotive  technology is more rapid and it has great evolution  in recents Years
+- Capacitive touch Screens are improving in Both Performance and Cost
+
+---------------------------------------------------------------------------------------------------------------5. Light Pen:
+-------------
+
+- it is pointing device which is similar to pen
+- you can select menu, draw picture on Monitor/Screen
+- it consisting of Photocell(10 E-8 Seconds) or (1/100000000 seconds) and optical system which is placed  in a small tube.
+- whenever you move your pen on screen or when you click on some buttons provided on your pen,Photocell will sens the location on the screen and according to that it will send the signal   to CPU and CPU will start Processing for the same.
+
+
+Histroy:
+	- It was developed in between 1955-1960s
+	- They become more commonly used with graphic Terminals Like IBM 2250
+	- Later on in 1980s light pens was available to home Computers.
+	- Light pen name it self refers to a pointing input Device.
+	- This gave an idea ot birth to Stylux(Pen) or Digital PenTab
+---------------------------------------------------------------------------------------------------------------6. WebCamera:
+-------------
+
+- It is an input Device Because it Captures Video image of the Screen Infront of The Screen.
+- we can use inpuilt camera in laptop or we can connect with the help of USB Cabel.
+
+***************************************************************************************************************
+[B] OUTPUT DEVICE
+***************************************************************************************************************
+1. MONITOR:
+--------------
+
+- VDU(Vertual Display Unit)
+- Trying to Display the image in form of Pixels (1px=0.0264582 cm Or 1px=0.0245m)
+
+	FOR EG: 10 MegaPixel = 10 X 10E6 X Pixels
+			     = 10 X 1000000 X 0.0264583
+- There are Several Types of Display Are Available in Market
+	<1> CRT Display
+	<2> Flat Panel Display
+
+
+	<1> CRT Display:
+		- numbers of characters displayed on the screen with the help of pixels.
+		- per screen you can display 25 lines.
+		- in one line you can display 80 Characters Only
+	Disadvantages: 
+		- Big in Size and Bulky.
+		- High Power Consumptions.
+	<2> Falt Panel Display
+		- Light weight monitors which you can hang on the wall.
+		- There are two types of Flat Panel Display
+		(a) Emmissive Display
+			- Converts Electrical energy into Lights
+			- Eg: LED (Light Emmiting Diode).
+		(b) Non-Emmissive Display
+			- use Opticaleffect to convert sunlight or a light from some other source into graphics
+			- Eg: LCD (Liquid Crystal Display).
+---------------------------------------------------------------------------------------------------------------2. Printer:
+------------
+
+- to print the data ,when we print , it is providing output
+- there are two types of printer
+	1. Impact Printer
+	2. Non-Impact Printer
+
+1. Impact Printers:
+-------------------
+- it prints characters by sticking then on ribbon and then it is pressed on paper.
+- Features and Disadvantages:
+	-> it is very noisy
+	-> it required physical contact on paper to print image
+	-> very low consumable cost
+	-> useful for bulk printing
+	-> There are two types of Impact Printers
+		(a) Character Printer
+		(b) Line Printer
+	(a) Character Printers: prints one character at a time
+		eg: DMP (Dot Matrix Printer), Daisy Wheel
+	(b) Line Printer: Prints one line at a time
+		eg: Drum Printer, Chain Printer.
+
+2. Non - Impact Printers:
+-------------------------
+
+- it prints the characters on paper but without any ribbon
+- it print full page at a time . Thats why it is also known as full page printer
+- there are two types of Non-Impact Printers
+	1. Laser Printer
+	2. Inkjet Printer
+	
+
+	1. LASER PRINTERS:
+	-------------------
+	- Use laser light to produce dot needed to form the characters to be printed on page
+	- very high in speed , High Quality, Supports different graphics and fonts.
+
+	2. INKJET PRINTERS:
+	-------------------
+	- This is based on New technology
+	- it Prints Characters by Spraying small dot ink on paper and produces high qualitt output.
+---------------------------------------------------------------------------------------------------------------3. Speakers:
+------------
+
+-  it is an output device which generates sounds when you connect with a computer or any other device(MP3 Player)
+-it receives sound data from computer and converts it into soundwaves and you will get audio as an output.
+---------------------------------------------------------------------------------------------------------------
+
+4. CD:
+------------ 
+- they are also known as COMPACT DISC
+- used to store Limited Amount of data (Approximately 500Mb).
+
+---------------------------------------------------------------------------------------------------------------
+
+5. DVD:
+------------
+- it is known as Digital Versatile Disc
+- it store huge amount of data (Approximately 4.7 GB)
+- store audio and Video Files
+- with the help of DVD Players You can transfer the Data to your TV and Speakers
+
+**************************************************************************************************************
+[C] STORAGE DEVICE:
+***************************************************************************************************************
+
+1. FLASH MEMORY:
+-------------------
+
+- IT IS LONG LIFE AND NON VOLATILE STRONG CHIP WHIH IS WIDELY USED IN EMBEDED SYSTEM
+- IT CAN STORE DATA AND INFO EVEN IF THE POWER IS OFF.
+- IT IS BASICALLY STORAGE.
+- it is a type of Non-Volatile Memory
+- it erases the data in unit blocks and rewtites the data at the byte level.
+- it is also known as EEPROM- Electrically Erasable Programmable Read Only Memory.
+- in case of PEN DRIVE (USB Drive) EEPROM is a type of data memory device using electronic device to erase or  write digital data in large blocks
+- it works on MOSFET- it is transistor used  for amplifying or switching electronics signals
+- MOSFET- METAL OXIDE SEMICONDUCTORS FIELD EFFECT TRANSITOR.
+
+
+
+2. OPTICAL DISC:
+-------------------
+
+- Uusally use to write and read data
+- encodes your binary information in the form of some special material and store the dtaa in that
+
+
+	eg: EXTERNAL HARD DRIVE
+
+
+3. LOCAL DRIVES:
+-------------------
+
+- we can say that it is a local disc as well
+- Hard Drive(HDD) or SSD(Solid State Drive) which is connected to your computer
+
+Primary Drive is C: , You can Also divide into D:,E:,F:, drives etc...,
+
+
+4. MAGNETIC TYPE/TAPE:
+----------------------
+- you can write data on single side
+- you can do  only forward and reverse operation with that
+- stores limited amount of data
+- eg: Audio Cassates.
+
+
+***************************************************************************************************************
+[D] PROCESSING DEVICE:
+***************************************************************************************************************
+
+1. MOTHER BOARD:
+-------------------
+
+- It is also known as MB. Main Board, Main Circuit Board.
+- Bigers Board in a Computer System.
+- It Allows power and also communication betwen CPU ,RAM and Other Components as Well
+- Each Type of Mother Board is Designed to work with Specific types of Processors and memory, So that They don't work with  every process and type of memory 
+- there are three types of sizes
+	
+	1. Standard ATX ( 305 x 244 mm)
+		- upto 4 slots for RAM  are available , Two  or More PCI slots are Available
+	2. Macro ATX (244 X 244 mm)
+		- upto 2 slots for RAM are available ,it has port and slots are available
+	3. Extended TX (344  x 340 mm)
+		- upto 8 slots for RAM, it has more PCI slots for Fifferent Purposes.
+
+2. PROCESSORS:
+-------------------
+- it is called as CPU
+- logical Ciruit respond to the basic instruction which executes on your computer
+- you can see CPU as IC(Integrated Circuits) chip in a Computer, Which is responsible for interpreting most of your computer commands
+
+-Elements of CPU are
+	1. ALU(ARITHMATIC AND LOGICAL UNIT):
+	-----------------------------------
+		- ALU is a main computer component of Central Processing Unit(CPU).
+		- its main function is to perform arithmatic and logical operation
+		- it is also known as Integer unit (IU) which is  IC within CPU which is the last component to perform calculation in the processor
+		- it obeys Logical Gates and its values like  XOR,OR,NOT,NAND, and EX-OR operations in Logic Gates
+
+	2. CU (CONTROL UNIT):
+	-------------------------------------
+		- it controles the operations of all parts of the computer but dosen't carry out any actual data processing operations
+		- it is responsible for controlling data transfer
+		- it manages all the units of computer
+		- it communicates with input/output device for transfer of data or result from storage
+		- it don't store or proccess data. 
+	3. CACHE MEMORY:
+	--------------------------------
+		- Cache memory is high speed memory, Which is small in size but faster than main memory(RAM)
+		- The CPU can access it more quickly than primary memory.
+		- Cache memory can only be accessed by CPU.
+		- it can be reserved part of main memory or storage device outside the CPU.
+		- it holds the data of the programm which are frequently used by the CPU.
+		- it make sure that the data is instantly available for CPU, whenever CPU need this data .
+		- it donsn't required RAM.
+		- There are Three Types of Cashe Memory:
+		1. L1 : (4 parts of CPU- quad core CPU) Present Inside : 2KB to 64KB
+		2. L2 : it is available outside the CPU, SIze: 256KB to 512KB
+		3. L3 : not present in all processor but some High-end processor may  have this type of cache memory . This cache is used to enhance the performance ,Size: 1Mb to 8Mb
+		(NOTE: larger the size of cashe memory, Slower will be the Speed)
+
+	WORKING OF CACHE MEMORY:
+	-------------------------
+	- when CPU needs Data, First of all it looks insdie L1 cache. if it dosen't find  anything on L1, it find inside L2 cache.
+	- if again data not found in L2 cache. it find inside L3 cache
+	- if data is found in the cache memory , Then it is known as Cache Hit, or else if not found we called it as Cache Miss.
+
+	Example:
+	----------
+
+	- when computer starts for the first time , or an aaplication  is opened  for the first time , data is not available in cache memory or in RAM.
+	- in this case the CPu gets data directly from HardDrive or SSD.
+	- therafter when you start your computer or open an application , CPU gets that data from  cache memory or in RAM
+
+	4. REGISTERS:
+	--------------
+	- Temp . Storage
+	- Registers reffered fast memory location that are present around the processor for easier access than RAM
+	- it holds temporary , Constantly access data because of how fast they are
+	- it increases the performance of processor
+
+3. RAM:
+-------------
+
+- it is known as RANDOM ACCESS MEMORY
+- it is a hardware in a computer device where OS , Different Applications (MS WORD,MS POWER POINR,MEDIAPLAYER,BROWSER) which use data to load application.
+- RAM is a Volatile Memory.
+
+4. ROM:
+--------------
+
+- it is known as Read only Memory
+- it is memory device or storage medium which store information permanently.
+- it is a type of Non-volatile memory
+
+		WHAT IS THE DIFFERENCE BETWEEN VOLATILE AND NON-VOLATILE MEMORY?
+---------------------------------------------------------------------------------------------------------------
+		VOLATILE MEMORY					NON-VOLATILE MEMORY
+---------------------------------------------------------------------------------------------------------------
+	a. data is lost when power is off		| a. data remian stored even the power is off 
+	b. contents stored temporarily			| b. contents stored permanantly
+	c. it is faster than non-volatile memory	| c. it is slower than Volatile Memory
+	d. ex: RAM					| d. ex: ROM
+	e. it can process read and write		| e. it can do Only Read
+---------------------------------------------------------------------------------------------------------------
+
+5. Swith Mode Power Supply(SMPS):
+----------------------------------
+- it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively.
+- SMPS: transfer power from AC to DC  or DC to AC
+1. DC to DC CONVERSION: 
+-high voltage DC power is directly aquired from DC power Source . Then this High Volatage DC power is switched usually in the range of 15KHz -5KHz (may be Step-Up or Step Down)
+
+
+2. AC TO DC CONVERSION:
+- it is being converted by using rectifier(Diode) and Filters
+- here Input Supply is AC and Output is DC accoring to the requirement the Elelctronic Components will be attached to acheive Desire  Output
+
+***************************************************************************************************************
+[D] USB (UNIVERSAL SERIAL BUS)
+***************************************************************************************************************- THERE ARE DIFFERENT TYPES OF USB PORT USED TO CONNECT PERIPHERAL DEVICES TO THE COMPUTER
+
+1.  USB 1.X: it has capacity to transfer a data with speed of 12 MB/Seconds(12mbps)
+2.  USB 2.0: it is high speed USB: 
+	   - it was introduced in 2000.
+	   - it is an upgraded version of USB 1.1
+  	   - it has capacity to transfer speed of 480 MB/Seconds (480mbps)
+	   - but practically it is 280 mbps.
+	   - it can consume 500mA of Power
+	   - Max Length: 5 meter
+3. USB 3.0 : it is super speed USB
+	   - it was discovered in Nov 2009.
+	   - it is much more improved version of USB 2.0
+	   - it supports data transfer of 5GB/Seconds (5gbps)
+	   - it can consume 900mA of Power
+	   - Max length : 3 Meter
+4. USB 3.1 : Also known as SuperSpeed+
+	   - it was introduced in 2013.
+	   - it is the latest version of USB protocol.
+	   - it has a great speed of data transfer of 100GB/Seconds (100gbps).
