@@ -1,0 +1,416 @@
+Computer Fundamentals | Basic Computer Science
+***************************************************************************************************************
+[A] INPUT DEVICE
+***************************************************************************************************************
+1. KEYBOARD:
+-------------
+
+- It is a panel of keys that operates a computer or typewritter
+- it is a set of keys also known as "QWERTY" Keyboard
+- Key boards are available in market with different Shape,Size & Keys
+
+---------------------------------------------------------------------------------------------------------------
+2. Mouse:
+-------------
+
+- it is pointing Device
+- Cursor: Control Device
+- mouse having three things
+	-Left Click
+	-Right Click
+	- Scroller(Wheel)
+
+Advantages:
+	1. Easy to use
+	2. Not very Expensive
+	3. Move your cursor faster than use of arrow key
+---------------------------------------------------------------------------------------------------------------3. Microphone
+--------------
+
+- it is an input device to input sound that we can store in a digital form
+- it converts Sound Waves to Electric Signal and Send it to the Computer in a required Formate.
+
+
+Use: Transfer data from one location to another location (Communication).
+	--->Multimedia Presentation
+	--->Music,Mixing and other sound Related Process
+---------------------------------------------------------------------------------------------------------------
+4.Touch Screen:
+---------------
+
+- Touch Screen is a computer display which is used as an input Device
+- these Screen are very sensitive to pressure, user can interact with your computer by touch on som picture, Buttons etc..,
+- There are Three types of Screen
+	1. Resistive
+	2. SurfaceWave
+	3. Capcitive 
+
+What is Resistive Touch?
+	- Pressure as an input is called as resistive touch
+	- it is made up of several layers of plastic and glass
+	- the front layer is Scratch Resistance
+	- Second layer is generally Glass
+	- these both are coated with conductive material, When Someone applies Pressure to the panel, resistance is meansures between the Two Layers
+
+
+What is SurfaceWave Acoustic Wave Touch Screen (SAW)?
+	- it uses Utrasonic Waves to detect the touch input.
+	- on tapping or touching the dislpay interface, The ultrasonic Waves in that Area are Disturbed, allowing the touch Screen's interface to detect the position of touch command
+	
+	BENIFITS:
+	1. They are limited to using a bare finger for input
+	2. They don't required a conductive object to register a touch
+	3. Unlike Capacitive Touch Screen SAW touch Screen can be operated with any object that can absorb Ultrasonic Waves, Which includes Things like Heavily Gloved Hands.
+	
+	DISADVANTAGES:
+	1. SAW  Screens are not recommended for outdoor environment
+	2. as they can be affected by large amount of dirt,dust,water droplets,etc..
+	3. Otherwise they  provide simple ,attractive interface for indor application
+	4. Eg: Metro railway station: Automatic Ticket Machine Uses This Technology for Ticket Bookings.
+
+What is Capacitive Touch?
+	-  it uses electric properties of Human body as an input
+	- When touched with finger , a small electrical charge is drawn to the point of contact.
+	- it will allow the display to detect  where it has recieved as input
+	- The result is a Display that can detect lighter touches and greater accuracy tha Resistive Touch.
+	Eg: Mobile Touch Screen 
+
+Which One Is Batter?
+
+- Capacotive  technology is more rapid and it has great evolution  in recents Years
+- Capacitive touch Screens are improving in Both Performance and Cost
+
+---------------------------------------------------------------------------------------------------------------5. Light Pen:
+-------------
+
+- it is pointing device which is similar to pen
+- you can select menu, draw picture on Monitor/Screen
+- it consisting of Photocell(10 E-8 Seconds) or (1/100000000 seconds) and optical system which is placed  in a small tube.
+- whenever you move your pen on screen or when you click on some buttons provided on your pen,Photocell will sens the location on the screen and according to that it will send the signal   to CPU and CPU will start Processing for the same.
+
+
+Histroy:
+	- It was developed in between 1955-1960s
+	- They become more commonly used with graphic Terminals Like IBM 2250
+	- Later on in 1980s light pens was available to home Computers.
+	- Light pen name it self refers to a pointing input Device.
+	- This gave an idea ot birth to Stylux(Pen) or Digital PenTab
+---------------------------------------------------------------------------------------------------------------6. WebCamera:
+-------------
+
+- It is an input Device Because it Captures Video image of the Screen Infront of The Screen.
+- we can use inpuilt camera in laptop or we can connect with the help of USB Cabel.
+
+***************************************************************************************************************
+[B] OUTPUT DEVICE
+***************************************************************************************************************
+1. MONITOR:
+--------------
+
+- VDU(Vertual Display Unit)
+- Trying to Display the image in form of Pixels (1px=0.0264582 cm Or 1px=0.0245m)
+
+	FOR EG: 10 MegaPixel = 10 X 10E6 X Pixels
+			     = 10 X 1000000 X 0.0264583
+- There are Several Types of Display Are Available in Market
+	<1> CRT Display
+	<2> Flat Panel Display
+
+
+	<1> CRT Display:
+		- numbers of characters displayed on the screen with the help of pixels.
+		- per screen you can display 25 lines.
+		- in one line you can display 80 Characters Only
+	Disadvantages: 
+		- Big in Size and Bulky.
+		- High Power Consumptions.
+	<2> Falt Panel Display
+		- Light weight monitors which you can hang on the wall.
+		- There are two types of Flat Panel Display
+		(a) Emmissive Display
+			- Converts Electrical energy into Lights
+			- Eg: LED (Light Emmiting Diode).
+		(b) Non-Emmissive Display
+			- use Opticaleffect to convert sunlight or a light from some other source into graphics
+			- Eg: LCD (Liquid Crystal Display).
+---------------------------------------------------------------------------------------------------------------2. Printer:
+------------
+
+- to print the data ,when we print , it is providing output
+- there are two types of printer
+	1. Impact Printer
+	2. Non-Impact Printer
+
+1. Impact Printers:
+-------------------
+- it prints characters by sticking then on ribbon and then it is pressed on paper.
+- Features and Disadvantages:
+	-> it is very noisy
+	-> it required physical contact on paper to print image
+	-> very low consumable cost
+	-> useful for bulk printing
+	-> There are two types of Impact Printers
+		(a) Character Printer
+		(b) Line Printer
+	(a) Character Printers: prints one character at a time
+		eg: DMP (Dot Matrix Printer), Daisy Wheel
+	(b) Line Printer: Prints one line at a time
+		eg: Drum Printer, Chain Printer.
+
+2. Non - Impact Printers:
+-------------------------
+
+- it prints the characters on paper but without any ribbon
+- it print full page at a time . Thats why it is also known as full page printer
+- there are two types of Non-Impact Printers
+	1. Laser Printer
+	2. Inkjet Printer
+	
+
+	1. LASER PRINTERS:
+	-------------------
+	- Use laser light to produce dot needed to form the characters to be printed on page
+	- very high in speed , High Quality, Supports different graphics and fonts.
+
+	2. INKJET PRINTERS:
+	-------------------
+	- This is based on New technology
+	- it Prints Characters by Spraying small dot ink on paper and produces high qualitt output.
+---------------------------------------------------------------------------------------------------------------3. Speakers:
+------------
+
+-  it is an output device which generates sounds when you connect with a computer or any other device(MP3 Player)
+-it receives sound data from computer and converts it into soundwaves and you will get audio as an output.
+---------------------------------------------------------------------------------------------------------------
+
+4. CD:
+------------ 
+- they are also known as COMPACT DISC
+- used to store Limited Amount of data (Approximately 500Mb).
+
+---------------------------------------------------------------------------------------------------------------
+
+5. DVD:
+------------
+- it is known as Digital Versatile Disc
+- it store huge amount of data (Approximately 4.7 GB)
+- store audio and Video Files
+- with the help of DVD Players You can transfer the Data to your TV and Speakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
