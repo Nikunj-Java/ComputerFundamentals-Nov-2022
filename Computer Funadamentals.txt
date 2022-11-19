@@ -243,218 +243,131 @@ Primary Drive is C: , You can Also divide into D:,E:,F:, drives etc...,
 - eg: Audio Cassates.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***************************************************************************************************************
+[D] PROCESSING DEVICE:
+***************************************************************************************************************
+
+1. MOTHER BOARD:
+-------------------
+
+- It is also known as MB. Main Board, Main Circuit Board.
+- Bigers Board in a Computer System.
+- It Allows power and also communication betwen CPU ,RAM and Other Components as Well
+- Each Type of Mother Board is Designed to work with Specific types of Processors and memory, So that They don't work with  every process and type of memory 
+- there are three types of sizes
+	
+	1. Standard ATX ( 305 x 244 mm)
+		- upto 4 slots for RAM  are available , Two  or More PCI slots are Available
+	2. Macro ATX (244 X 244 mm)
+		- upto 2 slots for RAM are available ,it has port and slots are available
+	3. Extended TX (344  x 340 mm)
+		- upto 8 slots for RAM, it has more PCI slots for Fifferent Purposes.
+
+2. PROCESSORS:
+-------------------
+- it is called as CPU
+- logical Ciruit respond to the basic instruction which executes on your computer
+- you can see CPU as IC(Integrated Circuits) chip in a Computer, Which is responsible for interpreting most of your computer commands
+
+-Elements of CPU are
+	1. ALU(ARITHMATIC AND LOGICAL UNIT):
+	-----------------------------------
+		- ALU is a main computer component of Central Processing Unit(CPU).
+		- its main function is to perform arithmatic and logical operation
+		- it is also known as Integer unit (IU) which is  IC within CPU which is the last component to perform calculation in the processor
+		- it obeys Logical Gates and its values like  XOR,OR,NOT,NAND, and EX-OR operations in Logic Gates
+
+	2. CU (CONTROL UNIT):
+	-------------------------------------
+		- it controles the operations of all parts of the computer but dosen't carry out any actual data processing operations
+		- it is responsible for controlling data transfer
+		- it manages all the units of computer
+		- it communicates with input/output device for transfer of data or result from storage
+		- it don't store or proccess data. 
+	3. CACHE MEMORY:
+	--------------------------------
+		- Cache memory is high speed memory, Which is small in size but faster than main memory(RAM)
+		- The CPU can access it more quickly than primary memory.
+		- Cache memory can only be accessed by CPU.
+		- it can be reserved part of main memory or storage device outside the CPU.
+		- it holds the data of the programm which are frequently used by the CPU.
+		- it make sure that the data is instantly available for CPU, whenever CPU need this data .
+		- it donsn't required RAM.
+		- There are Three Types of Cashe Memory:
+		1. L1 : (4 parts of CPU- quad core CPU) Present Inside : 2KB to 64KB
+		2. L2 : it is available outside the CPU, SIze: 256KB to 512KB
+		3. L3 : not present in all processor but some High-end processor may  have this type of cache memory . This cache is used to enhance the performance ,Size: 1Mb to 8Mb
+		(NOTE: larger the size of cashe memory, Slower will be the Speed)
+
+	WORKING OF CACHE MEMORY:
+	-------------------------
+	- when CPU needs Data, First of all it looks insdie L1 cache. if it dosen't find  anything on L1, it find inside L2 cache.
+	- if again data not found in L2 cache. it find inside L3 cache
+	- if data is found in the cache memory , Then it is known as Cache Hit, or else if not found we called it as Cache Miss.
+
+	Example:
+	----------
+
+	- when computer starts for the first time , or an aaplication  is opened  for the first time , data is not available in cache memory or in RAM.
+	- in this case the CPu gets data directly from HardDrive or SSD.
+	- therafter when you start your computer or open an application , CPU gets that data from  cache memory or in RAM
+
+	4. REGISTERS:
+	--------------
+	- Temp . Storage
+	- Registers reffered fast memory location that are present around the processor for easier access than RAM
+	- it holds temporary , Constantly access data because of how fast they are
+	- it increases the performance of processor
+
+3. RAM:
+-------------
+
+- it is known as RANDOM ACCESS MEMORY
+- it is a hardware in a computer device where OS , Different Applications (MS WORD,MS POWER POINR,MEDIAPLAYER,BROWSER) which use data to load application.
+- RAM is a Volatile Memory.
+
+4. ROM:
+--------------
+
+- it is known as Read only Memory
+- it is memory device or storage medium which store information permanently.
+- it is a type of Non-volatile memory
+
+		WHAT IS THE DIFFERENCE BETWEEN VOLATILE AND NON-VOLATILE MEMORY?
+---------------------------------------------------------------------------------------------------------------
+		VOLATILE MEMORY					NON-VOLATILE MEMORY
+---------------------------------------------------------------------------------------------------------------
+	a. data is lost when power is off		| a. data remian stored even the power is off 
+	b. contents stored temporarily			| b. contents stored permanantly
+	c. it is faster than non-volatile memory	| c. it is slower than Volatile Memory
+	d. ex: RAM					| d. ex: ROM
+	e. it can process read and write		| e. it can do Only Read
+---------------------------------------------------------------------------------------------------------------
+
+5. Swith Mode Power Supply(SMPS):
+----------------------------------
+- it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively.
+- SMPS: transfer power from AC to DC  or DC to AC
+
+***************************************************************************************************************
+[D] USB (UNIVERSAL SERIAL BUS)
+***************************************************************************************************************- THERE ARE DIFFERENT TYPES OF USB PORT USED TO CONNECT PERIPHERAL DEVICES TO THE COMPUTER
+
+1.  USB 1.X: it has capacity to transfer a data with speed of 12 MB/Seconds(12mbps)
+2.  USB 2.0: it is high speed USB: 
+	   - it was introduced in 2000.
+	   - it is an upgraded version of USB 1.1
+  	   - it has capacity to transfer speed of 480 MB/Seconds (480mbps)
+	   - but practically it is 280 mbps.
+	   - it can consume 500mA of Power
+	   - Max Length: 5 meter
+3. USB 3.0 : it is super speed USB
+	   - it was discovered in Nov 2009.
+	   - it is much more improved version of USB 2.0
+	   - it supports data transfer of 5GB/Seconds (5gbps)
+	   - it can consume 900mA of Power
+	   - Max length : 3 Meter
+4. USB 3.1 : Also known as SuperSpeed+
+	   - it was introduced in 2013.
+	   - it is the latest version of USB protocol.
+	   - it has a great speed of data transfer of 100GB/Seconds (100gbps).
